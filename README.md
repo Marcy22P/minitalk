@@ -13,6 +13,8 @@ The client sends a string to the server **bit by bit**, and the server reconstru
 ├── server.c        # Listens for signals and reconstructs the message
 ├── minitalk.h      # Shared function prototypes
 ├── Makefile        # Builds both client and server
+├── libft           # Complete custom C library used in this project
+# 👉 You can find the full implementation of my Libft here: https://github.com/Marcy22P/Libft.git
 ```
 
 ---
